@@ -37,20 +37,21 @@ UserService
 Configuration: Application properties configuration for database connection.
 
 
-## Endpoints
+## Endpoints.
 
-**CommunityController**
-POST /addNewCommunity: Add a new community.
-POST /setModerators/{communityId}/{userId}: Set a user as a moderator of a community.
-POST /joinCommunity/{communityId}/{userId}: Add a user to a community.
-GET /getCommunity/{id}: Get a community by ID.
-GET /getAll: Get all communities.
+**CommunityController** <br>
+POST /addNewCommunity: Add a new community. <br>
+POST /setModerators/{communityId}/{userId}: Set a user as a moderator of a community. <br>
+POST /joinCommunity/{communityId}/{userId}: Add a user to a community. <br>
+GET /getCommunity/{id}: Get a community by ID.<br>
+GET /getAll: Get all communities.<br>
+
 **DiscussionController**
-POST /setDiscussions: Add a new discussion.
-ReplyController
-POST /reply: Add a reply to a discussion.
-UserController
-POST /addNewUser: Add a new user.
+POST /setDiscussions: Add a new discussion. <br>
+**ReplyController**
+POST /reply: Add a reply to a discussion.<br>
+**UserController**
+POST /addNewUser: Add a new user.<br>
 
 ## Dependencies
 Spring Boot
