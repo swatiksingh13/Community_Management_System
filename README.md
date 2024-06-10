@@ -6,7 +6,7 @@
 
 - <b>Community Management</b></span>: Create and manage communities, set moderators, and allow users to join communities.
 - <b>Discussion Management</b></span>: Create and manage discussions within communities.
-- <<b>Reply Management</b></span>: Add replies to discussions.
+- <b>Reply Management</b></span>: Add replies to discussions.
 - <b>User Management</b></span>: Create and manage user accounts.
 
 ## Project Structure
@@ -54,8 +54,8 @@ POST /reply: Add a reply to a discussion.<br>
 POST /addNewUser: Add a new user.<br>
 
 ## Dependencies
-Spring Boot
-Spring Data JPA
-Hibernate
-MySQL Driver
-Lombok
+**Spring Boot**
+**Spring Data JPA**
+**Hibernate**
+**MySQL Driver**
+**Lombok**
