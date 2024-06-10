@@ -54,8 +54,8 @@ POST /reply: Add a reply to a discussion.<br>
 POST /addNewUser: Add a new user.<br>
 
 ## Dependencies
-**Spring Boot**
-**Spring Data JPA**
-**Hibernate**
-**MySQL Driver**
+**Spring Boot**,
+**Spring Data JPA**,
+**Hibernate**,
+**MySQL Driver**,
 **Lombok**
