@@ -4,10 +4,10 @@
 
 ## Features
 
-- <span style="color:blue;"><b>Community Management</b></span>: Create and manage communities, set moderators, and allow users to join communities.
-- <span style="color:green;"><b>Discussion Management</b></span>: Create and manage discussions within communities.
-- <span style="color:purple;"><b>Reply Management</b></span>: Add replies to discussions.
-- <span style="color:red;"><b>User Management</b></span>: Create and manage user accounts.
+- <b>Community Management</b></span>: Create and manage communities, set moderators, and allow users to join communities.
+- <b>Discussion Management</b></span>: Create and manage discussions within communities.
+- <<b>Reply Management</b></span>: Add replies to discussions.
+- <b>User Management</b></span>: Create and manage user accounts.
 
 ## Project Structure
 
