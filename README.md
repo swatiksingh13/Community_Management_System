@@ -11,30 +11,30 @@
 
 ## Project Structure
 
-**Controllers**: Handle HTTP requests and map them to services.
-CommunityController: Manages community-related operations.
-DiscussionController: Manages discussion-related operations.
-ReplyController: Manages reply-related operations.
-UserController: Manages user-related operations.
+**Controllers**: Handle HTTP requests and map them to services. <br>
+CommunityController: Manages community-related operations. <br>
+DiscussionController: Manages discussion-related operations.<br>
+ReplyController: Manages reply-related operations.<br>
+UserController: Manages user-related operations.<br>
 
-**Models**: Define the structure of the application's data.
-Community: Represents a community.
-Discussion: Represents a discussion in a community.
-Reply: Represents a reply to a discussion.
-User: Represents a user.
+**Models**: Define the structure of the application's data.<br>
+Community: Represents a community.<br>
+Discussion: Represents a discussion in a community.<br>
+Reply: Represents a reply to a discussion.<br>
+User: Represents a user.<br>
 
-**Repositories**: Provide CRUD operations for models using JPA.
-CommunityRepository
-DiscussionRepository
-ReplyRepository
-UserRepository
+**Repositories**: Provide CRUD operations for models using JPA.<br>
+CommunityRepository<br>
+DiscussionRepository<br>
+ReplyRepository<br>
+UserRepository<br>
 
-**Services**: Contain business logic and interact with repositories.
-CommunityService
-DiscussionService
-ReplyService
-UserService
-Configuration: Application properties configuration for database connection.
+**Services**: Contain business logic and interact with repositories.<br>
+CommunityService<br>
+DiscussionService<br>
+ReplyService<br>
+UserService<br>
+**Configuration**: Application properties configuration for database connection. <br>
 
 
 ## Endpoints.
