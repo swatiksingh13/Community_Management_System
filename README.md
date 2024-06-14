@@ -1,6 +1,6 @@
-# Customer Management System
+# Community Management System
 
-**Customer Management System** is a Spring Boot application designed to manage communities, discussions, replies, and users. It includes RESTful APIs for creating and managing these entities. The application uses a MySQL database and JPA for persistence.
+**Community Management System** is a Spring Boot application designed to manage communities, discussions, replies, and users. It includes RESTful APIs for creating and managing these entities. The application uses a MySQL database and JPA for persistence.
 
 ## Features
 
